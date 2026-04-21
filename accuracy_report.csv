@@ -1,0 +1,29 @@
+Question,Expected,Actual Source,Result
+"How is agriculture described as a science, an art, and a business in the text?",PDF,PDF,✅ PASS
+What are the key activities encompassed by agriculture beyond just growing crops?,PDF,PDF,✅ PASS
+How has modern agriculture evolved into a multidisciplinary field?,PDF,PDF,✅ PASS
+"What are the three major soil classification systems discussed in the text, and what distinguishes each system?",PDF,PDF,✅ PASS
+How does soil classification contribute to efficient land use planning and crop suitability assessment?,PDF,PDF,✅ PASS
+What are the key physical properties of soil that influence plant growth and agricultural management practices?,PDF,PDF,✅ PASS
+What are the primary roles of organic matter in soil chemistry?,PDF,PDF,✅ PASS
+How are plant nutrients classified based on the quantity required?,PDF,PDF,✅ PASS
+What factors influence the cation exchange capacity (CEC) of soil?,PDF,PDF,✅ PASS
+"What are the key methods to enhance soil fertility as described in the text, and how do they contribute to maintaining nutrient balance and soil health?",PDF,PDF,✅ PASS
+"How does integrated soil management ensure continuous productivity while preserving soil quality for future generations, according to the text?",PDF,PDF,❌ FAIL
+"What are the different forms of soil water mentioned in the text, and how do they influence nutrient availability and plant health?",PDF,PDF,✅ PASS
+What are the advantages and limitations of using surface water sources for irrigation?,PDF,PDF,✅ PASS
+"How does groundwater extraction for irrigation impact the environment, and what are its key advantages?",PDF,PDF,✅ PASS
+Compare the water use efficiency and potential risks of flood irrigation versus furrow irrigation.,PDF,PDF,✅ PASS
+"What are the recommended practices for nursery management in chilli cultivation, including seed treatment and transplanting timeline?",PDF,PDF,✅ PASS
+"How should main field preparation be conducted for chilli cultivation, including spacing and pest protection measures during transplanting?",PDF,PDF,✅ PASS
+What are the symptoms and control methods for Chilli Leaf Curl Virus and Anthracnose in chilli plants?,PDF,PDF,✅ PASS
+What are the optimal soil types and climatic conditions for cotton cultivation?,PDF,PDF,✅ PASS
+What are the recommended fertilizer doses and timings for cotton crops per acre?,PDF,PDF,✅ PASS
+How should Pink Bollworm infestation be identified and controlled in cotton fields?,PDF,PDF,✅ PASS
+What are the specific soil and climate requirements for optimal paddy cultivation?,PDF,PDF,✅ PASS
+Describe the seed treatment process for paddy cultivation to prevent seed-borne diseases.,PDF,PDF,✅ PASS
+What are the recommended fertilizer management practices for paddy cultivation at different growth stages?,PDF,PDF,✅ PASS
+"What are the key differences between determinate and indeterminate tomato varieties, and which is recommended for polyhouses?",PDF,PDF,✅ PASS
+"How does staking contribute to tomato yield, and what materials are recommended for this practice?",PDF,PDF,✅ PASS
+What are the symptoms and control measures for Blossom End Rot in tomatoes?,PDF,PDF,✅ PASS
+

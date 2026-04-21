@@ -1,0 +1,267 @@
+[
+    {
+        "question": "How is agriculture described as a science, an art, and a business in the text?",
+        "expected_type": "PDF",
+        "keywords": [
+            "plant physiology",
+            "skill",
+            "profitability"
+        ]
+    },
+    {
+        "question": "What are the key activities encompassed by agriculture beyond just growing crops?",
+        "expected_type": "PDF",
+        "keywords": [
+            "land preparation",
+            "pest management",
+            "marketing"
+        ]
+    },
+    {
+        "question": "How has modern agriculture evolved into a multidisciplinary field?",
+        "expected_type": "PDF",
+        "keywords": [
+            "biology",
+            "sustainability",
+            "information technology"
+        ]
+    },
+    {
+        "question": "What are the three major soil classification systems discussed in the text, and what distinguishes each system?",
+        "expected_type": "PDF",
+        "keywords": [
+            "Genetic Classification",
+            "USDA Soil Taxonomy",
+            "FAO Soil Classification"
+        ]
+    },
+    {
+        "question": "How does soil classification contribute to efficient land use planning and crop suitability assessment?",
+        "expected_type": "PDF",
+        "keywords": [
+            "land use planning",
+            "crop suitability",
+            "soil conservation"
+        ]
+    },
+    {
+        "question": "What are the key physical properties of soil that influence plant growth and agricultural management practices?",
+        "expected_type": "PDF",
+        "keywords": [
+            "water movement",
+            "aeration",
+            "nutrient availability"
+        ]
+    },
+    {
+        "question": "What are the primary roles of organic matter in soil chemistry?",
+        "expected_type": "PDF",
+        "keywords": [
+            "nutrient retention",
+            "cation exchange capacity",
+            "microbial populations"
+        ]
+    },
+    {
+        "question": "How are plant nutrients classified based on the quantity required?",
+        "expected_type": "PDF",
+        "keywords": [
+            "macronutrients",
+            "micronutrients",
+            "nitrogen"
+        ]
+    },
+    {
+        "question": "What factors influence the cation exchange capacity (CEC) of soil?",
+        "expected_type": "PDF",
+        "keywords": [
+            "clay content",
+            "organic matter",
+            "clay minerals"
+        ]
+    },
+    {
+        "question": "What are the key methods to enhance soil fertility as described in the text, and how do they contribute to maintaining nutrient balance and soil health?",
+        "expected_type": "PDF",
+        "keywords": [
+            "balanced fertilizer application",
+            "organic manures",
+            "crop rotation"
+        ]
+    },
+    {
+        "question": "How does integrated soil management ensure continuous productivity while preserving soil quality for future generations, according to the text?",
+        "expected_type": "PDF",
+        "keywords": [
+            "sustainable agriculture",
+            "excessive fertilizer use",
+            "soil quality"
+        ]
+    },
+    {
+        "question": "What are the different forms of soil water mentioned in the text, and how do they influence nutrient availability and plant health?",
+        "expected_type": "PDF",
+        "keywords": [
+            "gravitational water",
+            "dissolved salts",
+            "nutrient transport"
+        ]
+    },
+    {
+        "question": "What are the advantages and limitations of using surface water sources for irrigation?",
+        "expected_type": "PDF",
+        "keywords": [
+            "seepage",
+            "waterlogging",
+            "perennial rivers"
+        ]
+    },
+    {
+        "question": "How does groundwater extraction for irrigation impact the environment, and what are its key advantages?",
+        "expected_type": "PDF",
+        "keywords": [
+            "aquifers",
+            "depletion",
+            "energy-intensive"
+        ]
+    },
+    {
+        "question": "Compare the water use efficiency and potential risks of flood irrigation versus furrow irrigation.",
+        "expected_type": "PDF",
+        "keywords": [
+            "gravity flow",
+            "row crops",
+            "soil erosion"
+        ]
+    },
+    {
+        "question": "What are the recommended practices for nursery management in chilli cultivation, including seed treatment and transplanting timeline?",
+        "expected_type": "PDF",
+        "keywords": [
+            "Trichoderma viride",
+            "raised beds",
+            "35-40 days"
+        ]
+    },
+    {
+        "question": "How should main field preparation be conducted for chilli cultivation, including spacing and pest protection measures during transplanting?",
+        "expected_type": "PDF",
+        "keywords": [
+            "60 cm x 45 cm",
+            "Imidacloprid",
+            "sucking pests"
+        ]
+    },
+    {
+        "question": "What are the symptoms and control methods for Chilli Leaf Curl Virus and Anthracnose in chilli plants?",
+        "expected_type": "PDF",
+        "keywords": [
+            "Whiteflies",
+            "Diafenthiuron",
+            "Propiconazole"
+        ]
+    },
+    {
+        "question": "What are the optimal soil types and climatic conditions for cotton cultivation?",
+        "expected_type": "PDF",
+        "keywords": [
+            "black soils",
+            "tropical crop",
+            "15\u00b0C"
+        ]
+    },
+    {
+        "question": "What are the recommended fertilizer doses and timings for cotton crops per acre?",
+        "expected_type": "PDF",
+        "keywords": [
+            "50 kg DAP",
+            "45 kg Urea",
+            "Magnesium Sulphate"
+        ]
+    },
+    {
+        "question": "How should Pink Bollworm infestation be identified and controlled in cotton fields?",
+        "expected_type": "PDF",
+        "keywords": [
+            "rosette flowers",
+            "Pheromone Traps",
+            "Profenofos"
+        ]
+    },
+    {
+        "question": "What are the specific soil and climate requirements for optimal paddy cultivation?",
+        "expected_type": "PDF",
+        "keywords": [
+            "Clayey or clay-loam soils",
+            "pH 5.5 to 7.5",
+            "20\u00b0C to 35\u00b0C"
+        ]
+    },
+    {
+        "question": "Describe the seed treatment process for paddy cultivation to prevent seed-borne diseases.",
+        "expected_type": "PDF",
+        "keywords": [
+            "Carbendazim",
+            "24 hours soaking",
+            "remove floating seeds"
+        ]
+    },
+    {
+        "question": "What are the recommended fertilizer management practices for paddy cultivation at different growth stages?",
+        "expected_type": "PDF",
+        "keywords": [
+            "40:20:20 kg/acre",
+            "Zinc Sulphate",
+            "Do not mix Zinc with DAP/SSP"
+        ]
+    },
+    {
+        "question": "What are the key differences between determinate and indeterminate tomato varieties, and which is recommended for polyhouses?",
+        "expected_type": "PDF",
+        "keywords": [
+            "determinate",
+            "indeterminate",
+            "polyhouses"
+        ]
+    },
+    {
+        "question": "How does staking contribute to tomato yield, and what materials are recommended for this practice?",
+        "expected_type": "PDF",
+        "keywords": [
+            "staking",
+            "bamboo sticks",
+            "yield"
+        ]
+    },
+    {
+        "question": "What are the symptoms and control measures for Blossom End Rot in tomatoes?",
+        "expected_type": "PDF",
+        "keywords": [
+            "Blossom End Rot",
+            "Calcium Deficiency",
+            "Calcium Chloride"
+        ]
+    },
+    {
+        "question": "Who is the President of USA?",
+        "expected_type": "General AI",
+        "keywords": [
+            "President"
+        ]
+    },
+    {
+        "question": "How to make a pizza?",
+        "expected_type": "General AI",
+        "keywords": [
+            "dough",
+            "cheese"
+        ]
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "expected_type": "General AI",
+        "keywords": [
+            "Tokyo"
+        ]
+    }
+]
